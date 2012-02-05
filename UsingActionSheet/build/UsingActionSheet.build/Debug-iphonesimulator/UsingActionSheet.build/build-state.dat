@@ -1,0 +1,445 @@
+TUsingActionSheet
+v7
+r0
+t318361338.718004
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/Info.plist" UsingActionSheet-Info.plist
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/MainWindow.xib"
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/UsingActionSheetViewController.xib"
+cProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-banmcymghgzddedddugnrcclhphr/UsingActionSheet_Prefix.pch.gch UsingActionSheet_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetAppDelegate.o "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetViewController.o "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet" normal i386
+cGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app.dSYM" "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet"
+cTouch "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetAppDelegate.h
+c000000004D120671000000000000020E
+t1293026929
+s526
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m
+c000000004D1206710000000000000ABB
+t1293026929
+s2747
+i"UsingActionSheetAppDelegate.h"
+i"UsingActionSheetViewController.h"
+
+N/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.h
+c000000004D1206A70000000000000119
+t1293026983
+s281
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.m
+c000000004D120BB90000000000000844
+t1293028281
+s2116
+i"UsingActionSheetViewController.h"
+
+N/Users/sathish/Documents/UsingActionSheet/MainWindow.xib
+c000000004D1206710000000000004E95
+t1293026929
+s20117
+
+N/Users/sathish/Documents/UsingActionSheet/UsingActionSheetViewController.xib
+c000000004D1209B200000000000043EF
+t1293027762
+s17391
+
+N/Users/sathish/Documents/UsingActionSheet/UsingActionSheet_Prefix.pch
+c000000004D12067100000000000000C9
+t1293026929
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app
+t1293028287
+s238
+
+N/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app.dSYM
+t1293028287
+s102
+
+N/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/Info.plist
+t1293027459
+s633
+
+N/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/MainWindow.nib
+t1293027459
+s1141
+
+N/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/PkgInfo
+t1293027459
+s8
+
+N/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet
+t1293028287
+s18480
+
+N/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheetViewController.nib
+t1293027953
+s1229
+
+N/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheet.LinkFileList
+c000000004D12088300000000000001DE
+t1293027459
+s478
+
+N/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetAppDelegate.o
+t1293027460
+s51416
+
+N/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetViewController.o
+t1293028286
+s49204
+
+N/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/main.o
+t1293027460
+s6308
+
+N/Users/sathish/Documents/UsingActionSheet/main.m
+c000000004D120671000000000000016B
+t1293026929
+s363
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetAppDelegate.h
+c000000004D120671000000000000020E
+t1293026929
+s526
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m
+c000000004D1206710000000000000ABB
+t1293026929
+s2747
+i"UsingActionSheetAppDelegate.h"
+i"UsingActionSheetViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.h
+c000000004D1206A70000000000000119
+t1293026983
+s281
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m
+c000000004D120BB90000000000000844
+t1293028281
+s2116
+i"UsingActionSheetViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/MainWindow.xib
+c000000004D1206710000000000004E95
+t1293026929
+s20117
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/UsingActionSheetViewController.xib
+c000000004D1209B200000000000043EF
+t1293027762
+s17391
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/UsingActionSheet_Prefix.pch
+c000000004D12067100000000000000C9
+t1293026929
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app
+t1296016046
+s238
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app.dSYM
+t1296016046
+s102
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/Info.plist
+t1293027459
+s633
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/MainWindow.nib
+t1293027459
+s1141
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/PkgInfo
+t1293027459
+s8
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet
+t1296016046
+s18552
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheetViewController.nib
+t1293027953
+s1229
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheet.LinkFileList
+c000000004D3FA2AD0000000000000202
+t1296016045
+s514
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetAppDelegate.o
+t1296016046
+s51440
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetViewController.o
+t1296016046
+s49228
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/main.o
+t1296016046
+s6332
+
+N/Users/sathish/Documents/iPhone Apps/UsingActionSheet/main.m
+c000000004D120671000000000000016B
+t1293026929
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-banmcymghgzddedddugnrcclhphr/UsingActionSheet_Prefix.pch.gch
+t1296016046
+s15453392
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-bpvfgodezzciuvcmskqqkrwungka/UsingActionSheet_Prefix.pch.gch
+t1293027460
+s15453392
+
+NUsingActionSheet-Info.plist
+c000000004D120671000000000000038D
+t1293026929
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318361338#318361338#0(0"0(0#1#0"8606803968#0"0#
+
+CCompileC build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetAppDelegate.o "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317708846.473452
+e317708846.564750
+r1
+xCompileC
+xbuild/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetAppDelegate.o
+x/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m317708846#317708846#0(0"0(0#0#91"/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m8625090144#2335"    cd "/Users/sathish/Documents/iPhone Apps/UsingActionSheet"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-banmcymghgzddedddugnrcclhphr/UsingActionSheet_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m" -o "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetAppDelegate.o"0#
+
+CCompileC build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetAppDelegate.o /Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314720260.539308
+e314720260.630712
+r1
+xCompileC
+xbuild/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetAppDelegate.o
+x/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m314720260#314720260#0(0"0(0#0#79"/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m8607929920#2181"    cd /Users/sathish/Documents/UsingActionSheet    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-generated-files.hmap -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-own-target-headers.hmap -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-all-target-headers.hmap -iquote /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-project-headers.hmap -F/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator -I/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/include -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources/i386 -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-bpvfgodezzciuvcmskqqkrwungka/UsingActionSheet_Prefix.pch -c /Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetAppDelegate.m -o /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetAppDelegate.o0#
+
+CCompileC build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetViewController.o "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317708846.533363
+e317708846.611913
+r1
+xCompileC
+xbuild/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetViewController.o
+x/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m: In function '-[UsingActionSheetViewController actionSheet:clickedButtonAtIndex:]':
+o/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m:51: warning: format not a string literal and no format arguments
+lSLF07#2@102"Compile /Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m317708846#317708846#0(339"/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m: In function '-[UsingActionSheetViewController actionSheet:clickedButtonAtIndex:]':/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m:51: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments317708846#179#160#0(6@94"/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m314721081#51#0#51#0#51"format not a string literal and no format arguments0(0#0#94"/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m8624647488#2341"    cd "/Users/sathish/Documents/iPhone Apps/UsingActionSheet"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-banmcymghgzddedddugnrcclhphr/UsingActionSheet_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/Classes/UsingActionSheetViewController.m" -o "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetViewController.o"0#
+
+CCompileC build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetViewController.o /Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314721086.862635
+e314721086.995173
+r1
+xCompileC
+xbuild/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetViewController.o
+x/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.m: In function '-[UsingActionSheetViewController actionSheet:clickedButtonAtIndex:]':
+o/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.m:51: warning: format not a string literal and no format arguments
+lSLF07#2@90"Compile /Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.m314721086#314721086#0(315"/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.m: In function '-[UsingActionSheetViewController actionSheet:clickedButtonAtIndex:]':/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.m:51: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments314721086#167#148#0(6@82"/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.m314721081#51#0#51#0#51"format not a string literal and no format arguments0(0#0#82"/Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.m8618882784#2187"    cd /Users/sathish/Documents/UsingActionSheet    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-generated-files.hmap -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-own-target-headers.hmap -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-all-target-headers.hmap -iquote /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-project-headers.hmap -F/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator -I/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/include -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources/i386 -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-bpvfgodezzciuvcmskqqkrwungka/UsingActionSheet_Prefix.pch -c /Users/sathish/Documents/UsingActionSheet/Classes/UsingActionSheetViewController.m -o /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheetViewController.o0#
+
+CCompileC build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317708846.471831
+e317708846.533253
+r1
+xCompileC
+xbuild/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/iPhone Apps/UsingActionSheet/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/sathish/Documents/iPhone Apps/UsingActionSheet/main.m317708846#317708846#0(0"0(0#0#60"/Users/sathish/Documents/iPhone Apps/UsingActionSheet/main.m8625191072#2281"    cd "/Users/sathish/Documents/iPhone Apps/UsingActionSheet"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-banmcymghgzddedddugnrcclhphr/UsingActionSheet_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/main.m" -o "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/main.o /Users/sathish/Documents/UsingActionSheet/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314720260.537826
+e314720260.596562
+r1
+xCompileC
+xbuild/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/UsingActionSheet/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/sathish/Documents/UsingActionSheet/main.m314720260#314720260#0(0"0(0#0#48"/Users/sathish/Documents/UsingActionSheet/main.m8619344000#2127"    cd /Users/sathish/Documents/UsingActionSheet    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-generated-files.hmap -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-own-target-headers.hmap -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-all-target-headers.hmap -iquote /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-project-headers.hmap -F/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator -I/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/include -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources/i386 -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-bpvfgodezzciuvcmskqqkrwungka/UsingActionSheet_Prefix.pch -c /Users/sathish/Documents/UsingActionSheet/main.m -o /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/UsingActionSheetViewController.xib"
+r0
+
+CCompileXIB /Users/sathish/Documents/UsingActionSheet/MainWindow.xib
+s314720259.292611
+e314720259.695755
+r1
+xCompileXIB
+x/Users/sathish/Documents/UsingActionSheet/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314720259#314720259#0(0"0(0#0#56"/Users/sathish/Documents/UsingActionSheet/MainWindow.xib8617834336#588"    cd /Users/sathish/Documents/UsingActionSheet    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/MainWindow.nib /Users/sathish/Documents/UsingActionSheet/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/sathish/Documents/UsingActionSheet/UsingActionSheetViewController.xib
+s314720753.449587
+e314720753.831719
+r1
+xCompileXIB
+x/Users/sathish/Documents/UsingActionSheet/UsingActionSheetViewController.xib
+lSLF07#2@45"CompileXIB UsingActionSheetViewController.xib314720753#314720753#0(0"0(0#0#76"/Users/sathish/Documents/UsingActionSheet/UsingActionSheetViewController.xib8605801312#628"    cd /Users/sathish/Documents/UsingActionSheet    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheetViewController.nib /Users/sathish/Documents/UsingActionSheet/UsingActionSheetViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app.dSYM" "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet"
+s317708846.714324
+e317708846.764987
+r1
+xGenerateDSYMFile
+x/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app.dSYM
+x/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/UsingActionSheet.app.dSYM build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet317708846#317708846#0(0"0(0#0#119"/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet8624139840#461"    cd "/Users/sathish/Documents/iPhone Apps/UsingActionSheet"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet" -o "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app.dSYM"0#
+
+CGenerateDSYMFile /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app.dSYM /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet
+s314721087.019663
+e314721087.039388
+r1
+xGenerateDSYMFile
+x/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app.dSYM
+x/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/UsingActionSheet.app.dSYM build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet314721087#314721087#0(0"0(0#0#107"/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet8619843424#419"    cd /Users/sathish/Documents/UsingActionSheet    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet -o /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app.dSYM0#
+
+CLd "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet" normal i386
+s317708846.612008
+e317708846.714218
+r1
+xLd
+x/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet
+xnormal
+xi386
+lSLF07#2@124"Link /Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet317708846#317708846#0(0"0(0#0#0"8624381600#1030"    cd "/Users/sathish/Documents/iPhone Apps/UsingActionSheet"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator" "-F/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator" -filelist "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheet.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet"0#
+
+CLd /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet normal i386
+s314721086.995277
+e314721087.019571
+r1
+xLd
+x/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet
+xnormal
+xi386
+lSLF07#2@112"Link /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet314721086#314721087#0(0"0(0#0#0"8620122656#960"    cd /Users/sathish/Documents/UsingActionSheet    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator -F/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator -filelist /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/Objects-normal/i386/UsingActionSheet.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/UsingActionSheet0#
+
+CProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/Info.plist" UsingActionSheet-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/Info.plist UsingActionSheet-Info.plist
+s314720259.282899
+e314720259.292526
+r1
+xProcessInfoPlistFile
+x/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/Info.plist
+xUsingActionSheet-Info.plist
+lSLF07#2@35"Process UsingActionSheet-Info.plist314720259#314720259#0(0"0(0#0#69"/Users/sathish/Documents/UsingActionSheet/UsingActionSheet-Info.plist8605039328#515"    cd /Users/sathish/Documents/UsingActionSheet    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UsingActionSheet-Info.plist -genpkginfo /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app/Info.plist0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-banmcymghgzddedddugnrcclhphr/UsingActionSheet_Prefix.pch.gch UsingActionSheet_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317708845.641108
+e317708846.471559
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-banmcymghgzddedddugnrcclhphr/UsingActionSheet_Prefix.pch.gch
+xUsingActionSheet_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile UsingActionSheet_Prefix.pch317708845#317708846#0(0"0(0#0#81"/Users/sathish/Documents/iPhone Apps/UsingActionSheet/UsingActionSheet_Prefix.pch8626802016#2147"    cd "/Users/sathish/Documents/iPhone Apps/UsingActionSheet"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources" -c "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/UsingActionSheet_Prefix.pch" -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-banmcymghgzddedddugnrcclhphr/UsingActionSheet_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-bpvfgodezzciuvcmskqqkrwungka/UsingActionSheet_Prefix.pch.gch UsingActionSheet_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314720259.695978
+e314720260.537573
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-bpvfgodezzciuvcmskqqkrwungka/UsingActionSheet_Prefix.pch.gch
+xUsingActionSheet_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile UsingActionSheet_Prefix.pch314720259#314720260#0(0"0(0#0#69"/Users/sathish/Documents/UsingActionSheet/UsingActionSheet_Prefix.pch8619717056#2007"    cd /Users/sathish/Documents/UsingActionSheet    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-generated-files.hmap -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-own-target-headers.hmap -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-all-target-headers.hmap -iquote /Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/UsingActionSheet-project-headers.hmap -F/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator -I/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/include -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources/i386 -I/Users/sathish/Documents/UsingActionSheet/build/UsingActionSheet.build/Debug-iphonesimulator/UsingActionSheet.build/DerivedSources -c /Users/sathish/Documents/UsingActionSheet/UsingActionSheet_Prefix.pch -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UsingActionSheet_Prefix-bpvfgodezzciuvcmskqqkrwungka/UsingActionSheet_Prefix.pch.gch0#
+
+CTouch "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app"
+s317708846.765074
+e317708846.767841
+r1
+xTouch
+x/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app
+lSLF07#2@108"Touch /Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app317708846#317708846#0(0"0(0#0#0"8624037056#321"    cd "/Users/sathish/Documents/iPhone Apps/UsingActionSheet"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sathish/Documents/iPhone Apps/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app"0#
+
+CTouch /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app
+s314721087.039469
+e314721087.042111
+r1
+xTouch
+x/Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app
+lSLF07#2@96"Touch /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app314721087#314721087#0(0"0(0#0#0"8614756448#293"    cd /Users/sathish/Documents/UsingActionSheet    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sathish/Documents/UsingActionSheet/build/Debug-iphonesimulator/UsingActionSheet.app0#
+
